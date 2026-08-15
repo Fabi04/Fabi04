@@ -1,4 +1,5 @@
 # Hi, I'm Fábián 👋
+<small>I love coffee and cats.</small>
 
 I'm a Junior Software Developer interested in web development
 and software engineering.
