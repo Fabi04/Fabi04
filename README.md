@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fábián 👋
 
-<!--
-**Fabi04/Fabi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Software Developer interested in web development
+and software engineering.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Angular
+- TypeScript
+- PHP
+- SQL / MySQL
+- HTML / CSS
+- Git / GitHub
+
+## Featured Projects
+
+### SSO Archive
+Angular application for archiving and browsing SSO data.
+
+**Tech:** Angular, TypeScript, PHP, MySQL
+
+## Currently Learning
+
+- Advanced Angular
+- Clean Code & Software Architecture
+- Testing
+- Git & GitHub workflows
+
+## Contact
+
+- GitHub: https://github.com/Fabi04
+- LinkedIn: https://www.linkedin.com/in/f%C3%A1bi%C3%A1n-csern%C3%A1k-4b1a15384/
