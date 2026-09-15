@@ -32,4 +32,4 @@ Angular application for archiving and browsing SSO data.
 ## Contact
 
 - GitHub: https://github.com/Fabi04
-- LinkedIn: https://www.linkedin.com/in/f%C3%A1bi%C3%A1n-csern%C3%A1k-4b1a15384/
+- LinkedIn: https://www.linkedin.com/in/fabian-csernak/
